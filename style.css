@@ -1,5 +1,27 @@
+body{
+    background-color: rgb(255, 224, 239);
+}
+h1
+{
+ color: green;
+}
+
+.blue
+{
+  color:blue;
+}
+
+#red
+{
+  color: red;
+}
+
 html {
     height: 100%;
     width: 100%;
   }
   
+footer {
+
+    color: rgb(188, 55, 157);              /* Texto blanco */
+}
