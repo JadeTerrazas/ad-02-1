@@ -11,5 +11,3 @@ h3Element.addEventListener("click", (event) =>
  console.log(event);
  h3Element.style.color = "brown";
 })
-
-
